@@ -44,6 +44,7 @@ function getPersonalInfo(){
     var btn = document.getElementById("continue");
     var text = document.getElementById("jstext");
     var body = document.getElementById("body");
+    // var form = document.createElement("form");
     text.innerHTML =
         "<b>Section 2: Personal Information</b><br>" +
     "Kojima’s characters have names that are directly related to their own character traits.<br>" +
